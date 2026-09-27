@@ -2,7 +2,9 @@
 
 Chatbot para a **Doce Encanto Confeitaria** (loja fictícia), feito em Python com a **API oficial do WhatsApp (Meta Cloud API)**. Responde por menu numérico e por palavra-chave, e avisa quando a loja está fechada.
 
-![Bot funcionando](docs/demo.gif)
+![Conversa com o bot no simulador do terminal](docs/demo.gif)
+
+*Conversa real com o bot pelo simulador (`simulador.py`): primeiro com a loja aberta, depois fora do horário.*
 
 ## Problema
 
